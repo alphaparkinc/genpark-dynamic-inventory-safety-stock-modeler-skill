@@ -1,0 +1,12 @@
+{
+  "name": "genpark-dynamic-inventory-safety-stock-modeler-skill",
+  "version": "1.0.0",
+  "description": "High-frequency supply chain inventory optimizer calculating stochastic safety stock, ROP, and EOQ orders",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["inventory-optimization", "safety-stock", "reorder-point", "eoq", "supply-chain", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
